@@ -1,7 +1,7 @@
 使用 Modern Web 技術來打造 Native App
 ====================
 
-> 第八屆 iTHome 鐵人賽：使用 Modern Web 技術來打造 Native App
+> 第八屆 iTHome 鐵人賽：[使用 Modern Web 技術來打造 Native App](http://ithelp.ithome.com.tw/users/20103630/articles)
 
 ## 簡介
 
