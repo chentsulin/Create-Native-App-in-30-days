@@ -14,3 +14,4 @@
 - [Day 03：React Ecosystem](./posts/03.md)
 - [Day 04：Learn Once, Write Anywhere 平台的狂想](./posts/04.md)
 - [Day 05：準備 React Native 開發環境](./posts/05.md)
+- [Day 06：React Native 入門](./posts/06.md)
